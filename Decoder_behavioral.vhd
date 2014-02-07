@@ -1,11 +1,11 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company: USAFA
+-- Engineer: Suh
 -- 
 -- Create Date:    18:41:18 02/06/2014 
--- Design Name: 
+-- Design Name: YES
 -- Module Name:    Decoder_behavioral - Behavioral 
--- Project Name: 
+-- Project Name: ECE 281
 -- Target Devices: 
 -- Tool versions: 
 -- Description: 
